@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Buzdar</h1>
-<h3 align="center">A passionate iOS developer from Pakistan</h3>
+<h3 align="center">A passionate iOS developer with over two years of experience from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerbuzdar&label=Profile%20views&color=0e75b6&style=flat" alt="omerbuzdar" /> </p>
 
